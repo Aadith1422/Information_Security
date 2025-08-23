@@ -36,7 +36,7 @@ Example downloaded file:
 kali-linux-2025.2-virtualbox-amd64.7z
 ```
 
-![Download Kali VM](/Kali_installation/Screenshot from 2025-08-21 19-57-09.png)
+![Download Kali VM](/Kali_installation/Kali_download.png)
 
 ---
 
