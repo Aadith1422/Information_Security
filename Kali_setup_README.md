@@ -36,7 +36,7 @@ Example downloaded file:
 kali-linux-2025.2-virtualbox-amd64.7z
 ```
 
-![Download Kali VM](./Screenshot%20from%202025-08-21%2019-57-09.png)
+![Download Kali VM](/home/aadith/Desktop/week10/Kali_installation/VirtualBox_kali-linux-2025.2-virtualbox-amd64_21_08_2025_20_23_28.png)
 
 ---
 
@@ -86,7 +86,7 @@ You should now see the VirtualBox GUI.
 
 Once imported, select the VM and click **Start**.
 
-![Kali VM Running](./VirtualBox_kali-linux-2025.2-virtualbox-amd64_21_08_2025_20_23_28.png)
+![Kali VM Running](/Kali_installation/VirtualBox_kali-linux-2025.2-virtualbox-amd64_21_08_2025_20_23_28.png)
 
 ---
 
@@ -116,4 +116,4 @@ You now have **Kali running inside Kali** using VirtualBox! 🚀
 ---
 
 📸 **Screenshots included in this repo**  
-📝 Documented by *[Your Name]*  
+📝 Documented by AADITH C H  
